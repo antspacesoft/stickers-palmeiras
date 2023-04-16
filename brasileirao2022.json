@@ -1,0 +1,186 @@
+{
+  "android_play_store_link":"https://play.google.com/store/apps/details?id=com.antspace.stickers.palmeiras",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "brasileirao2022j37",
+      "name": "vs America MG",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "brasileirao2022wa2",
+      "name": "Campeão Basileirão 2022 (3)",
+      "animated_sticker_pack": true,
+      "stickers": "9"
+    },
+    {
+      "identifier": "brasileirao2022j35",
+      "name": "vs Fortaleza",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "brasileirao2022wa1",
+      "name": "Campeão Basileirão 2022 (1)",
+      "animated_sticker_pack": true,
+      "stickers": "6"
+    },
+    {
+      "identifier": "brasileirao2022w1",
+      "name": "Campeão Basileirão 2022 (2)",
+      "animated_sticker_pack": false,
+      "stickers": "8"
+    },
+    {
+      "identifier": "brasileirao2022j34",
+      "name": "vs Athletico-PR",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "brasileirao2022j33",
+      "name": "vs Avaí",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "brasileirao2022j30",
+      "name": "vs Coritiba",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "brasileirao2022j29a",
+      "name": "vs Botafogo (1)",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "brasileirao2022j29b",
+      "name": "vs Botafogo (2)",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "brasileirao2022j28",
+      "name": "vs Atletico-MG",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "brasileirao2022j27",
+      "name": "vs Santos",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "brasileirao2022j26",
+      "name": "vs Juventude",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "brasileirao2022j24a",
+      "name": "vs Fluminense (1)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "brasileirao2022j24b",
+      "name": "vs Fluminense (2)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "brasileirao2022j23",
+      "name": "vs Flamengo",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "brasileirao2022j22",
+      "name": "vs Corinthians",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "brasileirao2022j21",
+      "name": "vs Goias",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "brasileirao2022j20",
+      "name": "vs Ceará",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "brasileirao2022j19",
+      "name": "vs Internacional",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "brasileirao2022j18",
+      "name": "vs America MG",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "brasileirao2022j17",
+      "name": "vs Cuiaba",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "brasileirao2022j13",
+      "name": "vs Sao Paulo",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "brasileirao2022j12",
+      "name": "vs Atletico GO",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "brasileirao2022j11",
+      "name": "vs Coritiba",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "brasileirao2022j10",
+      "name": "vs Botafogo",
+      "animated_sticker_pack": false,
+      "stickers": "19"
+    },
+    {
+      "identifier": "brasileirao2022j8",
+      "name": "vs Santos",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "brasileirao2022j7",
+      "name": "vs Juventude",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "brasileirao2022j6",
+      "name": "vs Bragantino",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "brasileirao2022j3",
+      "name": "vs Corinthians",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    }
+  ]
+}

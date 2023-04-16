@@ -1,0 +1,54 @@
+{
+  "android_play_store_link":"https://play.google.com/store/apps/details?id=com.antspace.stickers.palmeiras",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "paulista2021s1",
+      "name": "vs Corinthians",
+      "animated_sticker_pack": false,
+      "stickers": "11"
+    },
+    {
+      "identifier": "paulista2021c1",
+      "name": "vs Bragantino",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "paulista2021j12",
+      "name": "vs Ponte Preta",
+      "animated_sticker_pack": false,
+      "stickers": "14"
+    },
+    {
+      "identifier": "paulista2021j11",
+      "name": "vs Santos",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "paulista2021j10",
+      "name": "vs Santo Andre",
+      "animated_sticker_pack": false,
+      "stickers": "12"
+    },
+    {
+      "identifier": "paulista2021j7",
+      "name": "vs Guarani",
+      "animated_sticker_pack": false,
+      "stickers": "11"
+    },
+    {
+      "identifier": "paulista2021j3",
+      "name": "vs Ferroviaria",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "paulista2021j1",
+      "name": "vs Sao Caetano",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    }
+  ]
+}

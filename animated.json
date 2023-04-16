@@ -1,0 +1,120 @@
+{
+  "android_play_store_link":"https://play.google.com/store/apps/details?id=com.antspace.stickers.palmeiras",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "worldcup2022BRAgol1",
+      "name": "Brasil Gol 1",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "worldcup2022BRAgol2",
+      "name": "Brasil Gol 2",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "brasileirao2022wa2",
+      "name": "Campeão Basileirão 2022 (3)",
+      "animated_sticker_pack": true,
+      "stickers": "9"
+    },
+    {
+      "identifier": "brasileirao2022wa1",
+      "name": "Campeão Basileirão 2022 (1)",
+      "animated_sticker_pack": true,
+      "stickers": "6"
+    },
+    {
+      "identifier": "libertadores2022c1a1",
+      "name": "vs Atlético-MG (2)",
+      "animated_sticker_pack": true,
+      "stickers": "5"
+    },
+    {
+      "identifier": "animated1",
+      "name": "Animados 1",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "libertadores2021wa4",
+      "name": "Campeao 2021 (6)",
+      "animated_sticker_pack": true,
+      "stickers": "7"
+    },
+    {
+      "identifier": "libertadores2021wa3",
+      "name": "Campeao 2021 (5)",
+      "animated_sticker_pack": true,
+      "stickers": "11"
+    },
+    {
+      "identifier": "libertadores2021wa2",
+      "name": "Campeao 2021 (2)",
+      "animated_sticker_pack": true,
+      "stickers": "5"
+    },
+    {
+      "identifier": "libertadores2021wa1",
+      "name": "Campeao 2021 (1)",
+      "animated_sticker_pack": true,
+      "stickers": "9"
+    },
+    {
+      "identifier": "plantel2021a1",
+      "name": "Team 2021",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "jogadores1",
+      "name": "Jogadores 1",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "jogadores2",
+      "name": "Jogadores 2",
+      "animated_sticker_pack": true,
+      "stickers": "11"
+    },
+    {
+      "identifier": "bicampeao20",
+      "name": "Bicampeao",
+      "animated_sticker_pack": true,
+      "stickers": "6"
+    },
+    {
+      "identifier": "periquito2",
+      "name": "Periquito 2",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "porco2",
+      "name": "Porco 2",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "copabrasil2020v1",
+      "name": "Tetr4 Campeao (3)",
+      "animated_sticker_pack": true,
+      "stickers": "7"
+    },
+    {
+      "identifier": "periquito1",
+      "name": "Periquito 1",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "porco1",
+      "name": "Porco 1",
+      "animated_sticker_pack": true,
+      "stickers": "11"
+    }
+  ]
+}

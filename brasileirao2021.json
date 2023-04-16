@@ -1,0 +1,126 @@
+{
+  "android_play_store_link":"https://play.google.com/store/apps/details?id=com.antspace.stickers.palmeiras",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "brasileirao21j38",
+      "name": "vs Ceará",
+      "animated_sticker_pack": false,
+      "stickers": "11"
+    },
+    {
+      "identifier": "brasileirao21j36",
+      "name": "vs Cuiaba",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "brasileirao21j31",
+      "name": "vs Atletico-GO",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "brasileirao21j30",
+      "name": "vs Santos",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "brasileirao21j29",
+      "name": "vs Gremio",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "brasileirao21j28",
+      "name": "vs Sport Recife",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
+      "identifier": "brasileirao21j19",
+      "name": "vs Ceara",
+      "animated_sticker_pack": false,
+      "stickers": "11"
+    },
+    {
+      "identifier": "brasileirao21j27",
+      "name": "vs Inter",
+      "animated_sticker_pack": false,
+      "stickers": "14"
+    },
+    {
+      "identifier": "brasileirao21j20",
+      "name": "vs Chapecoense",
+      "animated_sticker_pack": false,
+      "stickers": "12"
+    },
+    {
+      "identifier": "brasileirao21j18",
+      "name": "vs Paranaense",
+      "animated_sticker_pack": false,
+      "stickers": "14"
+    },
+    {
+      "identifier": "brasileirao21j13",
+      "name": "vs Fluminense",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "brasileirao21j12",
+      "name": "vs Atletico GO",
+      "animated_sticker_pack": false,
+      "stickers": "14"
+    },
+    {
+      "identifier": "brasileirao21j11",
+      "name": "vs Santos",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "brasileirao21j10",
+      "name": "vs Gremio",
+      "animated_sticker_pack": false,
+      "stickers": "13"
+    },
+    {
+      "identifier": "brasileirao21j9",
+      "name": "vs Sport Recife",
+      "animated_sticker_pack": false,
+      "stickers": "14"
+    },
+    {
+      "identifier": "brasileirao21j8",
+      "name": "vs Inter",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "brasileirao21j7",
+      "name": "vs Bahia",
+      "animated_sticker_pack": false,
+      "stickers": "14"
+    },
+    {
+      "identifier": "brasileirao21j5",
+      "name": "vs America MG",
+      "animated_sticker_pack": false,
+      "stickers": "13"
+    },
+    {
+      "identifier": "brasileirao21j4",
+      "name": "vs Juventude",
+      "animated_sticker_pack": false,
+      "stickers": "10"
+    },
+    {
+      "identifier": "brasileirao21j2",
+      "name": "vs Chapecoense",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    }
+  ]
+}

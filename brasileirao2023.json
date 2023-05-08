@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "brasileirao2023j4a",
+      "name": "vs Goias (1)",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "brasileirao2023j4b",
+      "name": "vs Goias (2)",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
       "identifier": "brasileirao2023j3",
       "name": "vs Corinthians",
       "animated_sticker_pack": false,

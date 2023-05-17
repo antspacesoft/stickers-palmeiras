@@ -3,6 +3,30 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "logoa1",
+      "name": "Logo (1)",
+      "animated_sticker_pack": true,
+      "stickers": "20"
+    },
+    {
+      "identifier": "logoa2",
+      "name": "Logo (2)",
+      "animated_sticker_pack": true,
+      "stickers": "20"
+    },
+    {
+      "identifier": "logoa3",
+      "name": "Logo (3)",
+      "animated_sticker_pack": true,
+      "stickers": "20"
+    },
+    {
+      "identifier": "logoa4",
+      "name": "Logo (4)",
+      "animated_sticker_pack": true,
+      "stickers": "20"
+    },
+    {
       "identifier": "brasileirao2022wa2",
       "name": "Campeão Basileirão 2022 (3)",
       "animated_sticker_pack": true,

@@ -3,6 +3,24 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "gol2023a",
+      "name": "Pack Gol (2)",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "gol2023b",
+      "name": "Pack Gol (3)",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
+      "identifier": "gol2023c",
+      "name": "Pack Gol (4)",
+      "animated_sticker_pack": false,
+      "stickers": "17"
+    },
+    {
       "identifier": "logoa1",
       "name": "Logo (1)",
       "animated_sticker_pack": true,
@@ -37,6 +55,12 @@
       "name": "Pack Torcida",
       "animated_sticker_pack": false,
       "stickers": "7"
+    },    
+    {
+      "identifier": "gol",
+      "name": "Pack Gol (1)",
+      "animated_sticker_pack": false,
+      "stickers": "29"
     },
     {
       "identifier": "pack1",

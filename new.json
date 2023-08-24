@@ -3,6 +3,12 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "libertadores2023c1",
+      "name": "vs D. Pereira",
+      "animated_sticker_pack": false,
+      "stickers": "27"
+    },
+    {
       "identifier": "brasileirao2023j20a",
       "name": "vs Cuiaba (1)",
       "animated_sticker_pack": false,

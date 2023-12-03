@@ -3,6 +3,18 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "brasileirao2023j37a",
+      "name": "vs Fluminense (1)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "brasileirao2023j37b",
+      "name": "vs Fluminense (2)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
       "identifier": "brasileirao2023j36",
       "name": "vs America-MG",
       "animated_sticker_pack": false,

@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"brasileirao2024j23a",
+         "name":"vs Sao Paulo (1)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"brasileirao2024j23b",
+         "name":"vs Sao Paulo (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
          "identifier":"brasileirao2024j18",
          "name":"vs Cruzeiro",
          "animated_sticker_pack":false,

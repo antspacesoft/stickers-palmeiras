@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"plantel2024b",
+         "name":"Elenco 2024 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
          "identifier":"brasileirao2024j25",
          "name":"vs Athletico-PR",
          "animated_sticker_pack":false,
@@ -214,7 +220,7 @@
       },
       {
          "identifier":"plantel2024",
-         "name":"Elenco Profissional 2024",
+         "name":"Elenco 2024",
          "animated_sticker_pack":false,
          "stickers":"30"
       },
@@ -1024,7 +1030,7 @@
       },
       {
          "identifier":"plantel2023",
-         "name":"Elenco Profissional 2023",
+         "name":"Elenco 2023",
          "animated_sticker_pack":false,
          "stickers":"26"
       },

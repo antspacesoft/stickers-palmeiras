@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"brasileirao2025j3a",
+         "name":"vs Corinthians (1)",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"brasileirao2025j3b",
+         "name":"vs Corinthians (2)",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
          "identifier":"libertadores2025fg2",
          "name":"vs Cerro Porteño",
          "animated_sticker_pack":false,

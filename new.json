@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"brasileirao2025j4",
+         "name":"vs Internacional",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
          "identifier":"gol2025a",
          "name":"Pack Gol (5)",
          "animated_sticker_pack":false,

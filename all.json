@@ -4,9 +4,15 @@
    "sticker_packs":[
       {
          "identifier":"felizpascoa1",
-         "name":"Feliz Pascoa",
+         "name":"Feliz Pascoa (1)",
          "animated_sticker_pack":false,
          "stickers":"10"
+      },
+      {
+         "identifier":"felizpascoa2",
+         "name":"Feliz Pascoa (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
       },
       {
          "identifier":"brasileirao2025j4",

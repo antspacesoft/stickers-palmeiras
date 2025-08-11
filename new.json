@@ -2,6 +2,12 @@
    "android_play_store_link":"https://play.google.com/store/apps/details?id=com.antspace.stickers.palmeiras",
    "ios_app_store_link":"",
    "sticker_packs":[
+       {
+          "identifier":"brasileirao2025j19",
+          "name":"vs Ceará",
+          "animated_sticker_pack":false,
+          "stickers":"25"
+       },
       {
          "identifier":"brasileirao2025j17",
          "name":"vs Gremio",
@@ -31,13 +37,13 @@
          "name":"vs Chelsea",
          "animated_sticker_pack":false,
          "stickers":"28"
-      },  
+      },
       {
          "identifier":"clubworldcup2025o3",
          "name":"vs Botafogo (3)",
          "animated_sticker_pack":false,
          "stickers":"22"
-      },  
+      },
       {
          "identifier":"clubworldcup2025o1",
          "name":"vs Botafogo (1)",
@@ -49,7 +55,7 @@
          "name":"vs Botafogo (2)",
          "animated_sticker_pack":false,
          "stickers":"24"
-      },  
+      },
       {
          "identifier":"clubworldcup2025fg3",
          "name":"vs Inter Miami",

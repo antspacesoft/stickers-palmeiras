@@ -1,96 +1,102 @@
 {
-  "android_play_store_link":"https://play.google.com/store/apps/details?id=com.antspace.stickers.palmeiras",
-  "ios_app_store_link": "",
-  "sticker_packs": [
-    {
-      "identifier": "clubworldcup2025team1",
-      "name": "Elenco Club WC 2025 (1)",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "clubworldcup2025team2",
-      "name": "Elenco Club WC 2025 (2)",
-      "animated_sticker_pack": false,
-      "stickers": "29"
-    },
-    {
-      "identifier": "clubworldcup2025team3",
-      "name": "Elenco Club WC 2025 (3)",
-      "animated_sticker_pack": false,
-      "stickers": "29"
-    },
-    {
-      "identifier": "clubworldcup2025team4",
-      "name": "Elenco Club WC 2025 (4)",
-      "animated_sticker_pack": false,
-      "stickers": "28"
-    },
-    {
-      "identifier": "flacolopez",
-      "name": "Flaco Lopez",
-      "animated_sticker_pack": false,
-      "stickers": "23"
-    },
-    {
-      "identifier": "plantel2024b",
-      "name": "Elenco 2024 (2)",
-      "animated_sticker_pack": false,
-      "stickers": "29"
-    },
-    {
-      "identifier": "estevao1",
-      "name": "Endrick",
-      "animated_sticker_pack": false,
-      "stickers": "27"
-    },
-    {
-      "identifier": "felipeanderson",
-      "name": "Felipe Anderson",
-      "animated_sticker_pack": false,
-      "stickers": "9"
-    },
-    {
-      "identifier": "plantel2024",
-      "name": "Elenco 2024 (1)",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "plantel2023",
-      "name": "Elenco 2023",
-      "animated_sticker_pack": false,
-      "stickers": "26"
-    },
-    {
-      "identifier": "dudu1",
-      "name": "Dudú",
-      "animated_sticker_pack": false,
-      "stickers": "30"
-    },
-    {
-      "identifier": "plantel2022",
-      "name": "Team 2022",
-      "animated_sticker_pack": false,
-      "stickers": "25"
-    },
-    {
-      "identifier": "plantel2021a1",
-      "name": "Team 2021",
-      "animated_sticker_pack": true,
-      "stickers": "12"
-    },
-    {
-      "identifier": "pack2",
-      "name": "Pack Team 2020 (1)",
-      "animated_sticker_pack": false,
-      "stickers": "15"
-    },
-    {
-      "identifier": "pack3",
-      "name": "Pack Team 2020 (2)",
-      "animated_sticker_pack": false,
-      "stickers": "15"
-    }
-  ]
+   "android_play_store_link":"https://play.google.com/store/apps/details?id=com.antspace.stickers.palmeiras",
+   "ios_app_store_link":"",
+   "sticker_packs":[
+      {
+         "identifier":"plantel2025",
+         "name":"Elenco 2025",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"clubworldcup2025team1",
+         "name":"Elenco Club WC 2025 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"clubworldcup2025team2",
+         "name":"Elenco Club WC 2025 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"clubworldcup2025team3",
+         "name":"Elenco Club WC 2025 (3)",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"clubworldcup2025team4",
+         "name":"Elenco Club WC 2025 (4)",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"flacolopez",
+         "name":"Flaco Lopez",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"plantel2024b",
+         "name":"Elenco 2024 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"estevao1",
+         "name":"Endrick",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"felipeanderson",
+         "name":"Felipe Anderson",
+         "animated_sticker_pack":false,
+         "stickers":"9"
+      },
+      {
+         "identifier":"plantel2024",
+         "name":"Elenco 2024 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"plantel2023",
+         "name":"Elenco 2023",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"dudu1",
+         "name":"Dudú",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"plantel2022",
+         "name":"Team 2022",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"plantel2021a1",
+         "name":"Team 2021",
+         "animated_sticker_pack":true,
+         "stickers":"12"
+      },
+      {
+         "identifier":"pack2",
+         "name":"Pack Team 2020 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"pack3",
+         "name":"Pack Team 2020 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      }
+   ]
 }

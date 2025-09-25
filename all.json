@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier": "manchaverde1",
+         "name": "Mancha Verde",
+         "animated_sticker_pack": false,
+         "stickers": "12"
+      },        
+      {
          "identifier":"libertadores2025c2",
          "name":"vs River Plate (2)",
          "animated_sticker_pack":false,

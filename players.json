@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"vitorroquea1",
+         "name":"Vitor Roque (1)",
+         "animated_sticker_pack":true,
+         "stickers":"11"
+      },
+      {
+         "identifier":"vitorroquea2",
+         "name":"Vitor Roque (2)",
+         "animated_sticker_pack":true,
+         "stickers":"11"
+      },
+      {
          "identifier":"plantel2025",
          "name":"Elenco 2025",
          "animated_sticker_pack":false,

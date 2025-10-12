@@ -3,10 +3,10 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
-      "identifier": "gola1",
-      "name": "Gol Animado",
+      "identifier": "flacolopeza1",
+      "name": "Flaco Lopez Gol",
       "animated_sticker_pack": true,
-      "stickers": "9"
+      "stickers": "10"
     },
     {
       "identifier": "vitorroquea1",

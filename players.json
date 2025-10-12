@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"flacolopeza1",
+         "name":"Flaco Lopez Gol",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"vitorroquea1",
+         "name":"Vitor Roque (1)",
+         "animated_sticker_pack":true,
+         "stickers":"11"
+      },
+      {
          "identifier":"vitorroquea1",
          "name":"Vitor Roque (1)",
          "animated_sticker_pack":true,

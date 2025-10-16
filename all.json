@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"brasileirao2025j28a",
+         "name":"vs Bragantino (1)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },    
+      {
+         "identifier":"brasileirao2025j28b",
+         "name":"vs Bragantino (2)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },       
+      {
          "identifier":"brasileirao2025j12a",
          "name":"vs Juventude (1)",
          "animated_sticker_pack":false,

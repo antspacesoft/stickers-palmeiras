@@ -2,6 +2,12 @@
    "android_play_store_link":"https://play.google.com/store/apps/details?id=com.antspace.stickers.palmeiras",
    "ios_app_store_link":"",
    "sticker_packs":[
+      {
+         "identifier":"serieabetano2026r3",
+         "name":"vs Internacional",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
        {
          "identifier":"paulista2026f7",
          "name":"vs Corinthians",

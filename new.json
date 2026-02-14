@@ -4,10 +4,16 @@
    "sticker_packs":[
      {
          "identifier":"sanvalentin",
-         "name":"Dia dos Namorados",
+         "name":"Dia dos Namorados (1)",
          "animated_sticker_pack":false,
          "stickers":"12"
-      },   
+      },
+      {
+         "identifier":"14febrero",
+         "name":"Dia dos Namorados (2)",
+         "animated_sticker_pack":false,
+         "stickers":"8"
+      },
       {
          "identifier":"brasileirao2026j3",
          "name":"vs Internacional",
@@ -1771,12 +1777,6 @@
          "name":"vs Ferroviaria",
          "animated_sticker_pack":false,
          "stickers":"18"
-      },
-      {
-         "identifier":"14febrero",
-         "name":"Dia dos Namorados",
-         "animated_sticker_pack":false,
-         "stickers":"8"
       },
       {
          "identifier":"clubworldcup2021p1",

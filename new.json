@@ -3,6 +3,14 @@
    "ios_app_store_link":"",
    "sticker_packs":[
        {
+         
+         "identifier":"seriea2026f8",
+         "name":"vs Sao Paulo",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+       {
+
          "identifier":"seriea2026f7",
          "name":"vs Botafogo",
          "animated_sticker_pack":false,

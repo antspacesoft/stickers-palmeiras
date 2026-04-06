@@ -2,12 +2,30 @@
    "android_play_store_link":"https://play.google.com/store/apps/details?id=com.antspace.stickers.palmeiras",
    "ios_app_store_link":"",
    "sticker_packs":[
+      {   
+         "identifier":"brasileirao2026j10",
+         "name":"vs Bahia",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
       {
-         
          "identifier":"brasileirao2026j9",
          "name":"vs Gremio",
          "animated_sticker_pack":false,
          "stickers":"15"
+      },
+      {
+         "identifier":"brasileirao2026j8",
+         "name":"vs Sao Paulo",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+
+         "identifier":"brasileirao2026j7",
+         "name":"vs Botafogo",
+         "animated_sticker_pack":false,
+         "stickers":"18"
       },
      {
         "identifier":"brasileirao2026j6",

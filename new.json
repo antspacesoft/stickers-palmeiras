@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"brasileirao2026j27",
+         "name":"vs Sao Paulo",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
          "identifier":"libertadores2026c1",
          "name":"vs LDU Quito",
          "animated_sticker_pack":false,
